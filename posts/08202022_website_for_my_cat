@@ -1,9 +1,9 @@
-                <img class="blog-image" src="cat.jpg" />
-                <h2>08/20/2022 - I Made a Website for my Cat</h2>
-                <p>
-                    I made a <a href="https://www.takkunismycat.com/">website for my cat</a> a little while ago. I wanted some
-                    good geocities vibes. It <s>does not work</s> kind of works in different viewports, it barely looks good on desktop, but it's purple!
-                </p>
-                <p>
-                    Css is easy when you use tables.
-                </p>  
+<img class="blog-image" src="cat.jpg" />
+<h2>08/20/2022 - I Made a Website for my Cat</h2>
+<p>
+    I made a <a href="https://www.takkunismycat.com/">website for my cat</a> a little while ago. I wanted some
+    good geocities vibes. It <s>does not work</s> kind of works in different viewports, it barely looks good on desktop, but it's purple!
+</p>
+<p>
+    Css is easy when you use tables.
+</p>  
