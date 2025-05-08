@@ -1,1 +1,3 @@
 name: Personal website
+include:
+  - "_images"
